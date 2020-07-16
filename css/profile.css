@@ -1,0 +1,115 @@
+header {
+    background-image: url("images/love-muse.jpg");
+    background-size: 1520px 250px;
+    background-repeat: no-repeat; 
+    height: 50%;
+    padding: 60px;
+    height:120px;
+    font-style: monospace;
+    opacity: 0.7;
+    list-style-type: none;
+    border: 1px solid black;
+    text-align: right;
+    font-size: 29px;
+    box-shadow: 0 0 16px rgba(0, 0, 0, 0.5);
+    border:0px;
+}
+.m{    
+
+    font-style:italic;
+    font-weight: bold;
+}
+
+.nav li{
+    display: inline;
+    padding: 95px;
+    margin-left: -10px;
+    font-size: 25px;
+    color: black;
+}
+.nav a{
+    color: black;
+}
+
+.nav li a:hover {
+    color: red;
+    text-decoration: none;
+}
+
+.jpg1 {
+    margin-left: 3px;
+    margin-top: 100px;
+    overflow: hidden;
+    padding-top: 10px;
+    margin-top: 90px;
+    overflow: hidden;
+    padding-left: 5px;
+    box-shadow: 0 0 16px rgba(0, 0, 0, 0.5);
+}
+
+.jpg2 {
+    margin-left: 3px;
+    margin-top: 90px;
+    overflow: hidden;
+    padding-top: 10px;
+    padding-left: 5px;
+    box-shadow: 0 0 16px rgba(0, 0, 0, 0.5);
+}
+
+
+.line1 {
+    text-align: left;
+    font-size: 18px;
+    border:1 px solid black;
+    border-radius: 20px;
+    height: 170px;
+    width: 28.3%;
+    background-color: #FFC83F;
+    float: left;
+    padding: 30px;
+    padding-top: 40px;
+    margin-top: 16px;
+    clear: both;
+    text-align:justify;
+    margin-left:25px;
+}
+
+.line2 {
+    text-align: center;
+    margin-top: 80px;
+    font-size: 18px;
+    text-align:justify;
+    border:1 px solid black;
+    border-radius: 20px;
+    height: 170px;
+    width:90%;
+    background-color: #FFC83F;
+    padding: 30px;
+    padding-top: 40px;
+    margin-top: -220px;
+    clear: both;
+    margin-left:475px;
+}
+
+.line3 {
+   
+    font-size: 18px;
+    text-align:justify;
+    border:1 px solid black;
+    border-radius: 20px;
+    height: 170px;
+    width: 100.3%;
+    background-color: #FFC83F;
+    float: right;
+    padding: 30px;
+    padding-top: 40px;
+    margin-top: -240px;
+    clear: both;
+    margin-right:-1000px;
+}
+footer {
+    background-color: red;
+    height: 100px;
+    width: 100%;
+    
+}
